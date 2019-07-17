@@ -1,0 +1,13 @@
+body {
+	background-color: #F3E6CD;
+}
+.top {
+	background-color: #51401E;
+	color: white;
+}
+.jumbotron {
+	background-color: white;
+}
+.jumbotron-title {
+	color: #51401E;
+}
